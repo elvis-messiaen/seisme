@@ -17,6 +17,7 @@ public class Seisme {
     private String Magnitude;
 
     private Date date;
+
     @DBRef
     private List<Localisation> localisation;
 }

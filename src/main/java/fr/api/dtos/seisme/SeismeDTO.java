@@ -1,4 +1,4 @@
-package fr.api.dtos;
+package fr.api.dtos.seisme;
 
 import fr.api.entities.Localisation;
 import org.springframework.data.annotation.Id;
