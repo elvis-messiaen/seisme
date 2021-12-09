@@ -8,11 +8,15 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class LocalisationConfiguration {
+
+/*
+
     @Bean
     public LocationService locationService (
             LocalisationRepository localisationRepository,
             ModelMapper mapper){
         return new LocationService(localisationRepository,mapper);
     }
+*/
 
 }

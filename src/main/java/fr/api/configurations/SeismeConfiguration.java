@@ -9,10 +9,10 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class SeismeConfiguration {
 
-    @Bean
+/*    @Bean
     public SeismeService seismeService (
             SeismeRepository seismeRepository,
             ModelMapper mapper){
         return new SeismeService(seismeRepository,mapper);
-    }
+    }*/
 }
